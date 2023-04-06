@@ -9,6 +9,10 @@
 //   console.log(number2 + " is greatar than " + number1);
 // }
 
+
+
+
+
 //OBJECT 02
 // let numberOne = +prompt("Enter the Number for checking the sign");
 // if (numberOne < 0) {
@@ -16,6 +20,11 @@
 // } else {
 //   alert(numberOne + " is a Positive Number");
 // }
+
+
+
+
+
 
 //OBJECT 03
 // let number1 = +prompt("Enter the First Number : ");
@@ -56,6 +65,11 @@
 //   console.log(number5 + " is greatar");
 // }
 
+
+
+
+
+
 //OBJECT 04
 // for (let index = 0; index <= 15; index++) {
 //   if (index % 2 === 0) {
@@ -64,6 +78,11 @@
 //     console.log(index + " is Odd");
 //   }
 // }
+
+
+
+
+
 
 //OBJECT 05
 // let englishMarks = +prompt("Enter the English Marks : ");
@@ -104,6 +123,10 @@
 //   console.log("Something Went Wrong");
 // }
 
+
+
+
+
 // Object 06
 // for (let index = 1; index <= 100; index++) {
 //   if (index % 3 === 0 && index % 5 === 0) {
@@ -116,6 +139,10 @@
 //     console.log(index);
 //   }
 // }
+
+
+
+
 
 // Object 07
 // //outer loop
